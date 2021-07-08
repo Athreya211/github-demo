@@ -1,4 +1,4 @@
-#add implementation
+#addition implementation
 def add(x,y):
     return x+y
     
